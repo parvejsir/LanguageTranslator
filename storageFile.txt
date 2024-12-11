@@ -1,0 +1,93 @@
+
+Input Text:
+It totally working 
+From Language: en
+To Language: hi
+Translated Text: यह पूरी तरह से काम कर रहा है
+Input Text:
+we will come there 
+From Language: en
+To Language: hi
+Translated Text: हम वहां आएंगे
+Input Text:
+we want to get full marks in python project
+From Language: en
+To Language: hi
+Translated Text: हम पायथन प्रोजेक्ट में पूर्ण अंक प्राप्त करना चाहते हैं
+Input Text:
+hi everyone what are you doing now 
+From Language: en
+To Language: hi
+Translated Text: हेलो दोस्तों अब आप क्या कर रहे हैं?
+Input Text:
+welcome to python lab
+From Language: en
+To Language: hi
+Translated Text: पायथन लैब में आपका स्वागत है
+Input Text:
+yes
+From Language: en
+To Language: hi
+Translated Text: हाँ
+Input Text:
+hand
+From Language: en
+To Language: hi
+Translated Text: हाथ
+Input Text:
+welcome
+From Language: en
+To Language: ur
+Translated Text: خوش آمدید
+Input Text:
+pen
+From Language: en
+To Language: hi
+Translated Text: कलम
+Input Text:
+pencil
+From Language: en
+To Language: hi
+Translated Text: पेंसिल
+Input Text:
+Its working don't worry
+From Language: en
+To Language: hi
+Translated Text: यह काम कर रहा है, चिंता न करें
+Input Text:
+hello guys
+From Language: en
+To Language: hi
+Translated Text: हैलो दोस्तों
+Input Text:
+hello guys
+From Language: en
+To Language: bn
+Translated Text: হ্যালো বন্ধুরা
+Input Text:
+hello guys
+From Language: en
+To Language: hi
+Translated Text: हैलो दोस्तों
+Input Text:
+Good
+From Language: en
+To Language: sq
+Translated Text: I mirë
+
+Input Text:
+Good
+From Language: en
+To Language: hi
+Translated Text: अच्छा
+
+Input Text:
+hello
+From Language: en
+To Language: hi
+Translated Text: नमस्ते
+Input Text:
+what are u doing man
+From Language: en
+To Language: hi
+Translated Text: आप क्या कर रहे हैं आदमी
